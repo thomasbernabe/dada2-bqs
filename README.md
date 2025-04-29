@@ -1,1 +1,1 @@
-# dada2-bqs-eval
+# dada2 binned quality score evaluation
