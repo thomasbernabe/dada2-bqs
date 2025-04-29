@@ -1,1 +1,1 @@
-# DADA2-binned-quality
+# dada2-bqs-eval
